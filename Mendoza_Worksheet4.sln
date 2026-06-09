@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Torres_Worksheet4", "Mendoza_Worksheet4\Torres_Worksheet4.csproj", "{68A501FE-BA7F-4BEB-A898-26A555292E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A501FE-BA7F-4BEB-A898-26A555292E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A501FE-BA7F-4BEB-A898-26A555292E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A501FE-BA7F-4BEB-A898-26A555292E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A501FE-BA7F-4BEB-A898-26A555292E77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43AE0A1A-2C6B-4371-8762-EA9AABE52AC8}
+	EndGlobalSection
+EndGlobal
